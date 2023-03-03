@@ -10,5 +10,4 @@ public class SpringBootAllApplication {
 		SpringApplication.run(SpringBootAllApplication.class, args);
 		System.out.println("Application started...!");
 	}
-
 }
